@@ -1,4 +1,6 @@
-Simple crossword game created using python for cse231 course.
+An interactive crossword puzzle solver made with Python and a utilizes custom Crossword class to manage puzzle state, clues, and guesses. 
+
+
 proj07.py contains the main program code.
 .csv files contain the words used for the game.
 input#.txt and output#.txt files contain trail runs.
